@@ -1,6 +1,5 @@
-# hackathon-set
+# Shiro Spring Petclinic
 
-This the git repository for the hackathon application by Team "Dev Rockers".
 
 Features:
 
